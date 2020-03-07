@@ -1,0 +1,36 @@
+.\output\irmptime.o: ..\IRMP\src\irmptime.c
+.\output\irmptime.o: ..\FWLIB\SystemInc\stm32f10x.h
+.\output\irmptime.o: ..\CMSIS\Inc\core_cm3.h
+.\output\irmptime.o: D:\keil MDK\ARM\ARMCC\Bin\..\include\stdint.h
+.\output\irmptime.o: ..\FWLIB\SystemInc\system_stm32f10x.h
+.\output\irmptime.o: ..\FWLIB\SystemInc\stm32f10x_conf.h
+.\output\irmptime.o: ..\FWLIB\Inc\stm32f10x_adc.h
+.\output\irmptime.o: ..\FWLIB\SystemInc\stm32f10x.h
+.\output\irmptime.o: ..\FWLIB\Inc\stm32f10x_bkp.h
+.\output\irmptime.o: ..\FWLIB\Inc\stm32f10x_can.h
+.\output\irmptime.o: ..\FWLIB\Inc\stm32f10x_cec.h
+.\output\irmptime.o: ..\FWLIB\Inc\stm32f10x_crc.h
+.\output\irmptime.o: ..\FWLIB\Inc\stm32f10x_dac.h
+.\output\irmptime.o: ..\FWLIB\Inc\stm32f10x_dbgmcu.h
+.\output\irmptime.o: ..\FWLIB\Inc\stm32f10x_dma.h
+.\output\irmptime.o: ..\FWLIB\Inc\stm32f10x_exti.h
+.\output\irmptime.o: ..\FWLIB\Inc\stm32f10x_flash.h
+.\output\irmptime.o: ..\FWLIB\Inc\stm32f10x_fsmc.h
+.\output\irmptime.o: ..\FWLIB\Inc\stm32f10x_gpio.h
+.\output\irmptime.o: ..\FWLIB\Inc\stm32f10x_i2c.h
+.\output\irmptime.o: ..\FWLIB\Inc\stm32f10x_iwdg.h
+.\output\irmptime.o: ..\FWLIB\Inc\stm32f10x_pwr.h
+.\output\irmptime.o: ..\FWLIB\Inc\stm32f10x_rcc.h
+.\output\irmptime.o: ..\FWLIB\Inc\stm32f10x_rtc.h
+.\output\irmptime.o: ..\FWLIB\Inc\stm32f10x_sdio.h
+.\output\irmptime.o: ..\FWLIB\Inc\stm32f10x_spi.h
+.\output\irmptime.o: ..\FWLIB\Inc\stm32f10x_tim.h
+.\output\irmptime.o: ..\FWLIB\Inc\stm32f10x_usart.h
+.\output\irmptime.o: ..\FWLIB\Inc\stm32f10x_wwdg.h
+.\output\irmptime.o: ..\FWLIB\Inc\misc.h
+.\output\irmptime.o: ..\IRMP\inc\irmptime.h
+.\output\irmptime.o: ..\IRMP\inc\irmp.h
+.\output\irmptime.o: ..\IRMP\inc\irmpsystem.h
+.\output\irmptime.o: D:\keil MDK\ARM\ARMCC\Bin\..\include\string.h
+.\output\irmptime.o: ..\IRMP\inc\irmpconfig.h
+.\output\irmptime.o: ..\IRMP\inc\irmpprotocols.h

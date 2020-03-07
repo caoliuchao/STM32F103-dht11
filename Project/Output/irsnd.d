@@ -1,0 +1,36 @@
+.\output\irsnd.o: ..\IRSND\src\irsnd.c
+.\output\irsnd.o: ..\IRSND\inc\irsnd.h
+.\output\irsnd.o: ..\IRMP\inc\irmpsystem.h
+.\output\irsnd.o: ..\FWLIB\SystemInc\stm32f10x.h
+.\output\irsnd.o: ..\CMSIS\Inc\core_cm3.h
+.\output\irsnd.o: D:\keil MDK\ARM\ARMCC\Bin\..\include\stdint.h
+.\output\irsnd.o: ..\FWLIB\SystemInc\system_stm32f10x.h
+.\output\irsnd.o: ..\FWLIB\SystemInc\stm32f10x_conf.h
+.\output\irsnd.o: ..\FWLIB\Inc\stm32f10x_adc.h
+.\output\irsnd.o: ..\FWLIB\SystemInc\stm32f10x.h
+.\output\irsnd.o: ..\FWLIB\Inc\stm32f10x_bkp.h
+.\output\irsnd.o: ..\FWLIB\Inc\stm32f10x_can.h
+.\output\irsnd.o: ..\FWLIB\Inc\stm32f10x_cec.h
+.\output\irsnd.o: ..\FWLIB\Inc\stm32f10x_crc.h
+.\output\irsnd.o: ..\FWLIB\Inc\stm32f10x_dac.h
+.\output\irsnd.o: ..\FWLIB\Inc\stm32f10x_dbgmcu.h
+.\output\irsnd.o: ..\FWLIB\Inc\stm32f10x_dma.h
+.\output\irsnd.o: ..\FWLIB\Inc\stm32f10x_exti.h
+.\output\irsnd.o: ..\FWLIB\Inc\stm32f10x_flash.h
+.\output\irsnd.o: ..\FWLIB\Inc\stm32f10x_fsmc.h
+.\output\irsnd.o: ..\FWLIB\Inc\stm32f10x_gpio.h
+.\output\irsnd.o: ..\FWLIB\Inc\stm32f10x_i2c.h
+.\output\irsnd.o: ..\FWLIB\Inc\stm32f10x_iwdg.h
+.\output\irsnd.o: ..\FWLIB\Inc\stm32f10x_pwr.h
+.\output\irsnd.o: ..\FWLIB\Inc\stm32f10x_rcc.h
+.\output\irsnd.o: ..\FWLIB\Inc\stm32f10x_rtc.h
+.\output\irsnd.o: ..\FWLIB\Inc\stm32f10x_sdio.h
+.\output\irsnd.o: ..\FWLIB\Inc\stm32f10x_spi.h
+.\output\irsnd.o: ..\FWLIB\Inc\stm32f10x_tim.h
+.\output\irsnd.o: ..\FWLIB\Inc\stm32f10x_usart.h
+.\output\irsnd.o: ..\FWLIB\Inc\stm32f10x_wwdg.h
+.\output\irsnd.o: ..\FWLIB\Inc\misc.h
+.\output\irsnd.o: D:\keil MDK\ARM\ARMCC\Bin\..\include\string.h
+.\output\irsnd.o: ..\IRSND\inc\irsndconfig.h
+.\output\irsnd.o: ..\IRMP\inc\irmpprotocols.h
+.\output\irsnd.o: ..\Drives\Inc\delay.h

@@ -1,0 +1,36 @@
+.\output\irmp.o: ..\IRMP\src\irmp.c
+.\output\irmp.o: ..\IRMP\inc\irmp.h
+.\output\irmp.o: ..\IRMP\inc\irmpsystem.h
+.\output\irmp.o: ..\FWLIB\SystemInc\stm32f10x.h
+.\output\irmp.o: ..\CMSIS\Inc\core_cm3.h
+.\output\irmp.o: D:\keil MDK\ARM\ARMCC\Bin\..\include\stdint.h
+.\output\irmp.o: ..\FWLIB\SystemInc\system_stm32f10x.h
+.\output\irmp.o: ..\FWLIB\SystemInc\stm32f10x_conf.h
+.\output\irmp.o: ..\FWLIB\Inc\stm32f10x_adc.h
+.\output\irmp.o: ..\FWLIB\SystemInc\stm32f10x.h
+.\output\irmp.o: ..\FWLIB\Inc\stm32f10x_bkp.h
+.\output\irmp.o: ..\FWLIB\Inc\stm32f10x_can.h
+.\output\irmp.o: ..\FWLIB\Inc\stm32f10x_cec.h
+.\output\irmp.o: ..\FWLIB\Inc\stm32f10x_crc.h
+.\output\irmp.o: ..\FWLIB\Inc\stm32f10x_dac.h
+.\output\irmp.o: ..\FWLIB\Inc\stm32f10x_dbgmcu.h
+.\output\irmp.o: ..\FWLIB\Inc\stm32f10x_dma.h
+.\output\irmp.o: ..\FWLIB\Inc\stm32f10x_exti.h
+.\output\irmp.o: ..\FWLIB\Inc\stm32f10x_flash.h
+.\output\irmp.o: ..\FWLIB\Inc\stm32f10x_fsmc.h
+.\output\irmp.o: ..\FWLIB\Inc\stm32f10x_gpio.h
+.\output\irmp.o: ..\FWLIB\Inc\stm32f10x_i2c.h
+.\output\irmp.o: ..\FWLIB\Inc\stm32f10x_iwdg.h
+.\output\irmp.o: ..\FWLIB\Inc\stm32f10x_pwr.h
+.\output\irmp.o: ..\FWLIB\Inc\stm32f10x_rcc.h
+.\output\irmp.o: ..\FWLIB\Inc\stm32f10x_rtc.h
+.\output\irmp.o: ..\FWLIB\Inc\stm32f10x_sdio.h
+.\output\irmp.o: ..\FWLIB\Inc\stm32f10x_spi.h
+.\output\irmp.o: ..\FWLIB\Inc\stm32f10x_tim.h
+.\output\irmp.o: ..\FWLIB\Inc\stm32f10x_usart.h
+.\output\irmp.o: ..\FWLIB\Inc\stm32f10x_wwdg.h
+.\output\irmp.o: ..\FWLIB\Inc\misc.h
+.\output\irmp.o: D:\keil MDK\ARM\ARMCC\Bin\..\include\string.h
+.\output\irmp.o: ..\IRMP\inc\irmpconfig.h
+.\output\irmp.o: ..\IRMP\inc\irmpprotocols.h
+.\output\irmp.o: ..\IRMP\inc\irmptime.h
