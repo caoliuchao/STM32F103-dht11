@@ -6,10 +6,7 @@
  *
  * 修改人 :
  *  日期  :
- *
- * 修改人 :
- *  日期  :
- **************************************************************************/
+**************************************************************************/
 #include "stm32f10x.h"
 #include <stdio.h>
 #include "includes.h"
@@ -28,7 +25,7 @@ int main(void)
     NVIC_PriorityGroupConfig(NVIC_PriorityGroup_2); //配置NVIC抢占优先位
     USART1_Configuration(); //初始化usart1
 		
-	Systick_Init();                 //启动UCOSII系统节拍 
+    Systick_Init();                 //启动UCOSII系统节拍 
     
 	OSInit();                       //UCOSII的初始化
  	OSTaskCreate(start_task,(void *)0,(OS_STK *)&START_TASK_STK[START_STK_SIZE-1],START_TASK_PRIO );//创建起始任务
